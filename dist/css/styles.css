@@ -11084,6 +11084,7 @@ footer.footer .social-link:hover {
   text-transform: uppercase;
 }
 .portfolio-item .caption .caption-content p {
+  overflow: visible;
   font-weight: 300;
   font-size: 1.2rem;
 }
